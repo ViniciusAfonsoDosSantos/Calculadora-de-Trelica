@@ -100,7 +100,7 @@
             this.panel3.Location = new System.Drawing.Point(428, 578);
             this.panel3.Margin = new System.Windows.Forms.Padding(2);
             this.panel3.Name = "panel3";
-            this.panel3.Size = new System.Drawing.Size(326, 64);
+            this.panel3.Size = new System.Drawing.Size(357, 64);
             this.panel3.TabIndex = 3;
             // 
             // btnCalcular
@@ -108,10 +108,10 @@
             this.btnCalcular.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.btnCalcular.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
             this.btnCalcular.Font = new System.Drawing.Font("Segoe UI", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point);
-            this.btnCalcular.Location = new System.Drawing.Point(215, 13);
+            this.btnCalcular.Location = new System.Drawing.Point(230, 13);
             this.btnCalcular.Margin = new System.Windows.Forms.Padding(2);
             this.btnCalcular.Name = "btnCalcular";
-            this.btnCalcular.Size = new System.Drawing.Size(96, 37);
+            this.btnCalcular.Size = new System.Drawing.Size(121, 37);
             this.btnCalcular.TabIndex = 0;
             this.btnCalcular.Text = "Calcular";
             this.btnCalcular.UseVisualStyleBackColor = true;
@@ -121,7 +121,7 @@
             // 
             this.btnCriar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.btnCriar.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnCriar.Location = new System.Drawing.Point(15, 13);
+            this.btnCriar.Location = new System.Drawing.Point(16, 13);
             this.btnCriar.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.btnCriar.Name = "btnCriar";
             this.btnCriar.Size = new System.Drawing.Size(96, 37);
@@ -134,10 +134,10 @@
             // 
             this.btnDeletar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom)));
             this.btnDeletar.AutoSizeMode = System.Windows.Forms.AutoSizeMode.GrowAndShrink;
-            this.btnDeletar.Location = new System.Drawing.Point(115, 13);
+            this.btnDeletar.Location = new System.Drawing.Point(116, 13);
             this.btnDeletar.Margin = new System.Windows.Forms.Padding(2, 3, 2, 3);
             this.btnDeletar.Name = "btnDeletar";
-            this.btnDeletar.Size = new System.Drawing.Size(96, 37);
+            this.btnDeletar.Size = new System.Drawing.Size(110, 37);
             this.btnDeletar.TabIndex = 8;
             this.btnDeletar.Text = "Deletar";
             this.btnDeletar.UseVisualStyleBackColor = true;

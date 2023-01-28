@@ -18,8 +18,8 @@ namespace Software_Trelisa
 
         public Form1()
         {
-            frmLogin frm = new frmLogin();
-            frm.ShowDialog();
+            //frmLogin frm = new frmLogin();
+            //frm.ShowDialog();
             InitializeComponent();
         }
 
